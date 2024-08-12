@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @MaYiAdm
 - 下边是我的telegram联系方式
 - ✈️ 蚂蚁🐜MaYiAdm ：https://t.me/MaYiAdm
-- ✈️交  流  群： https://t.me/MaYi_Club
-
-- 开源项目交流群### 蚂蚁🐜俱乐部： https://t.me/MaYi_Club
+-
+- ✈️蚂蚁🐜俱乐部： https://t.me/MaYi_Club
 - 
 - 电报bot 开发 搭建 定制
 - 机器人源码 出售 二开功能定制
