@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MaYiAdm
 - ✈️ 蚂蚁🐜MaYiAdm @MaYiAdm
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✈️交  流  群： @MaYi_Club
+- 电报机器人 开发者 
+
 
 <!---
 MaYiAdm/MaYiAdm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
